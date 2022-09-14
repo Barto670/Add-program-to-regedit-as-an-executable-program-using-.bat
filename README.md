@@ -4,7 +4,8 @@
 
 2) Replace 'PROGRAMNAMEHERE' with the name of your program
 
-The bat files create the following
+The bat files create the following:
+
 -Whole tree view-
 ![image](https://user-images.githubusercontent.com/59570853/190258469-1e81e331-ce23-4267-9234-6a348e1692c6.png)
 
