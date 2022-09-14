@@ -4,7 +4,7 @@
 
 2) Replace 'PROGRAMNAMEHERE' with the name of your program
 
-The bat files create the following:
+The bat files create the following in regedit (Registry Editor):
 
 -Whole tree view-
 
