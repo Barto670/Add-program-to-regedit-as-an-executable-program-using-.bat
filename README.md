@@ -7,7 +7,10 @@
 The bat files create the following:
 
 -Whole tree view-
+
 ![image](https://user-images.githubusercontent.com/59570853/190258469-1e81e331-ce23-4267-9234-6a348e1692c6.png)
+
+-Detailed tree view-
 
 ![image](https://user-images.githubusercontent.com/59570853/190258940-49d7d8d5-3c47-47a2-8f7e-c6ca12aed286.png)
 ![image](https://user-images.githubusercontent.com/59570853/190258549-edb4f7d7-9404-4e69-a877-27b3893f4f86.png)
